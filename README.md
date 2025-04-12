@@ -1,4 +1,4 @@
-# Hi there, I'm Victory Okeke 👋
+# Hi there, I'm Vic Okeke 👋
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 </div>
